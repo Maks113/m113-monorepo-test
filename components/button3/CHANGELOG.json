@@ -1,6 +1,18 @@
 {
-  "name": "@maks113/button",
+  "name": "@maks113/button3",
   "entries": [
+    {
+      "version": "3.1.2",
+      "tag": "@maks113/button3_v3.1.2",
+      "date": "Wed, 20 Jan 2021 21:12:13 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "add number 3"
+          }
+        ]
+      }
+    },
     {
       "version": "0.3.6",
       "tag": "@maks113/button_v0.3.6",

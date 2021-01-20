@@ -1,6 +1,13 @@
-# Change Log - @maks113/button
+# Change Log - @maks113/button2
 
-This log was last generated on Wed, 20 Jan 2021 19:52:58 GMT and should not be manually modified.
+This log was last generated on Wed, 20 Jan 2021 21:12:13 GMT and should not be manually modified.
+
+## 0.2.1
+Wed, 20 Jan 2021 21:12:13 GMT
+
+### Patches
+
+- add number 2
 
 ## 0.3.6
 Wed, 20 Jan 2021 19:52:58 GMT
