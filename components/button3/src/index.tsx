@@ -16,7 +16,7 @@ export const Button = ({ name }: IButton) => {
 		onClick={onClick}
 	>
 		{name}
-		{' -<3-> '}
+		{' -<-3-> '}
 		{format(new Date(), 'dd.MM.yyyy hh:mm')}
 	</button>;
 };
