@@ -10,6 +10,7 @@ dependencies:
   '@types/react': 17.0.0
   '@types/react-dom': 17.0.0
   '@types/testing-library__jest-dom': 5.9.5
+  date-fns: 2.16.1
   husky: 4.3.8
   react-dom: 17.0.1
   react-refresh: 0.9.0
@@ -4809,6 +4810,12 @@ packages:
       node: '>=10'
     resolution:
       integrity: sha512-X5eWTSXO/BJmpdIKCRuKUgSCgAN0OwliVK3yPKbwIWU1Tdw5BRajxlzMidvh+gwko9AfQ9zIj52pzF91Q3YAvQ==
+  /date-fns/2.16.1:
+    dev: false
+    engines:
+      node: '>=0.11'
+    resolution:
+      integrity: sha512-sAJVKx/FqrLYHAQeN7VpJrPhagZc9R4ImZIWYRFZaaohR3KzmuK88touwsSwSVT8Qcbd4zoDsnGfX4GFB4imyQ==
   /debug/2.6.9:
     dependencies:
       ms: 2.0.0
@@ -14477,6 +14484,7 @@ packages:
       '@size-limit/preset-small-lib': 4.9.1_cb0509e6a23dad8d4044cce6fd817699
       '@types/react': 17.0.0
       '@types/react-dom': 17.0.0
+      date-fns: 2.16.1
       husky: 4.3.8
       react: 17.0.1
       react-dom: 17.0.1_react@17.0.1
@@ -14490,7 +14498,7 @@ packages:
     peerDependencies:
       '@types/node': '*'
     resolution:
-      integrity: sha512-hru3QGccPZP6abo6tbNjl9XXU9QW5oxQjMzl2yDxOf5DMIkcI8NS8YqpfAph3d3rZQ/Q7geKBzVRCpKUaASxGw==
+      integrity: sha512-qwWSHEgpBoFLggXpA0JckEQdZSv1MkQZe+R/d5EQcHIcyUx5sCUDLCizrNoVdZlF3R8rDsM9p0kR7vs9nDF1iw==
       tarball: file:projects/button.tgz
     version: 0.0.0
   file:projects/test-app.tgz:
@@ -14528,6 +14536,7 @@ specifiers:
   '@types/react': ^17.0.0
   '@types/react-dom': ^17.0.0
   '@types/testing-library__jest-dom': ^5.9.5
+  date-fns: ~2.16.1
   husky: ^4.3.8
   react-dom: ^17.0.1
   react-refresh: ^0.9.0

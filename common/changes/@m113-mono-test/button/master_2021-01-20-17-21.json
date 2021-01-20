@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "packageName": "@m113-mono-test/button",
+      "comment": "Add date to button name",
+      "type": "minor"
+    }
+  ],
+  "packageName": "@m113-mono-test/button",
+  "email": "maks113nik@gmail.com"
+}

@@ -392,7 +392,8 @@
     },
     {
       "packageName": "@m113-mono-test/button",
-      "projectFolder": "components/button"
+      "projectFolder": "components/button",
+      shouldPublish: true
     }
     // {
     //   /**
