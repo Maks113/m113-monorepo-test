@@ -391,9 +391,13 @@
       "projectFolder": "apps/test-app"
     },
     {
+      "packageName": "test-app2",
+      "projectFolder": "apps/test-app2"
+    },
+    {
       "packageName": "@m113-mono-test/button",
       "projectFolder": "components/button",
-      shouldPublish: true
+      "shouldPublish": true
     }
     // {
     //   /**

@@ -1,0 +1,17 @@
+{
+  "name": "@m113-mono-test/button",
+  "entries": [
+    {
+      "version": "0.2.0",
+      "tag": "@m113-mono-test/button_v0.2.0",
+      "date": "Wed, 20 Jan 2021 17:26:17 GMT",
+      "comments": {
+        "minor": [
+          {
+            "comment": "Add date to button name"
+          }
+        ]
+      }
+    }
+  ]
+}
