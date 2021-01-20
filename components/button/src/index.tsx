@@ -1,22 +1,16 @@
 import * as React from 'react';
-import { format } from 'date-fns';
-import { useState } from "react";
+import { Text } from '@maks113/text-block';
 
 interface IButton {
-	name: string;
+	text: string;
+	onClick: () => {};
 }
 
-export const Button = ({ name }: IButton) => {
-	const [clicks, setClicks] = useState(0);
-	const onClick = () => {
-		setClicks(clicks + 1);
-	};
+export const Button = ({ text, onClick }: IButton) => {
 	return <button
 		className={'button'}
 		onClick={onClick}
 	>
-		{name}
-		{' -<-1-> '}
-		{format(new Date(), 'dd.MM.yyyy hh:mm')}
+		<Text text={text}/>
 	</button>;
 };

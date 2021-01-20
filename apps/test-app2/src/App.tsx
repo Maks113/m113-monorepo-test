@@ -1,11 +1,11 @@
 import React from 'react';
-import { Button } from "@maks113/button";
 import './App.css';
+import { Clicker } from "@maks113/clicker";
 
 function App() {
   return (
     <div className="App">
-      <Button name={'Button name'}/>
+      <Clicker/>
     </div>
   );
 }

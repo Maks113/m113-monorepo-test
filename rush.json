@@ -400,13 +400,13 @@
       "shouldPublish": true
     },
     {
-      "packageName": "@maks113/button2",
-      "projectFolder": "components/button2",
+      "packageName": "@maks113/clicker",
+      "projectFolder": "components/clicker",
       "shouldPublish": true
     },
     {
-      "packageName": "@maks113/button3",
-      "projectFolder": "components/button3",
+      "packageName": "@maks113/text-block",
+      "projectFolder": "components/text-block",
       "shouldPublish": true
     }
     // {
