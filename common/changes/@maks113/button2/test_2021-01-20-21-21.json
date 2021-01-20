@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "packageName": "@maks113/button2",
+      "comment": "add -",
+      "type": "patch"
+    }
+  ],
+  "packageName": "@maks113/button2",
+  "email": "maks113nik@gmail.com"
+}
