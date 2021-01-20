@@ -17,6 +17,6 @@ export const Button = ({ name }: IButton) => {
 	>
 		{name}
 		{' - '}
-		{format(new Date(), 'dd.MM.yyyy hh:mm:ss')}
+		{format(new Date(), 'dd.MM.yyyy hh:mm')}
 	</button>;
 };
