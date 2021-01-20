@@ -2,8 +2,8 @@
   "changes": [
     {
       "packageName": "@maks113/button2",
-      "comment": "",
-      "type": "change text"
+      "comment": "change text",
+      "type": "patch"
     }
   ],
   "packageName": "@maks113/button2",
