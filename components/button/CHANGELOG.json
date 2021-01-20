@@ -2,6 +2,18 @@
   "name": "@m113-mono-test/button",
   "entries": [
     {
+      "version": "0.3.1",
+      "tag": "@m113-mono-test/button_v0.3.1",
+      "date": "Wed, 20 Jan 2021 19:15:41 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "some changes"
+          }
+        ]
+      }
+    },
+    {
       "version": "0.3.0",
       "tag": "@m113-mono-test/button_v0.3.0",
       "date": "Wed, 20 Jan 2021 18:46:56 GMT",

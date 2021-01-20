@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button } from "@m113-mono-test/button";
+import { Button } from "@maks113/button";
 import './App.css';
 
 function App() {

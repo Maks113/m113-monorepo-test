@@ -395,7 +395,7 @@
       "projectFolder": "apps/test-app2"
     },
     {
-      "packageName": "@m113-mono-test/button",
+      "packageName": "@maks113/button",
       "projectFolder": "components/button",
       "shouldPublish": true
     }

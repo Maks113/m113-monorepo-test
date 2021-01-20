@@ -1,5 +1,5 @@
 {
-  "version": "0.3.0",
+  "version": "0.3.1",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -33,7 +33,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@m113-mono-test/button",
+  "name": "@maks113/button",
   "author": "Maks Nikolaev",
   "module": "dist/button.esm.js",
   "size-limit": [
