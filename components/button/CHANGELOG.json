@@ -2,6 +2,25 @@
   "name": "@maks113/button",
   "entries": [
     {
+      "version": "0.3.8",
+      "tag": "@maks113/button_v0.3.8",
+<<<<<<< HEAD
+      "date": "Wed, 20 Jan 2021 21:34:32 GMT",
+=======
+      "date": "Wed, 20 Jan 2021 22:16:22 GMT",
+>>>>>>> publish-1611180981829
+      "comments": {
+        "patch": [
+          {
+            "comment": "change text"
+          },
+          {
+            "comment": "changed text to 1"
+          }
+        ]
+      }
+    },
+    {
       "version": "0.3.7",
       "tag": "@maks113/button_v0.3.7",
       "date": "Wed, 20 Jan 2021 21:12:45 GMT",
