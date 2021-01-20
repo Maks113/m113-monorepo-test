@@ -1,5 +1,7 @@
 dependencies:
   '@rush-temp/button': file:projects/button.tgz_@types+node@12.19.14
+  '@rush-temp/button2': file:projects/button2.tgz_@types+node@12.19.14
+  '@rush-temp/button3': file:projects/button3.tgz_@types+node@12.19.14
   '@rush-temp/test-app': file:projects/test-app.tgz
   '@rush-temp/test-app2': file:projects/test-app2.tgz
   '@size-limit/preset-small-lib': 4.9.1_cb0509e6a23dad8d4044cce6fd817699
@@ -14502,6 +14504,50 @@ packages:
       integrity: sha512-qwWSHEgpBoFLggXpA0JckEQdZSv1MkQZe+R/d5EQcHIcyUx5sCUDLCizrNoVdZlF3R8rDsM9p0kR7vs9nDF1iw==
       tarball: file:projects/button.tgz
     version: 0.0.0
+  file:projects/button2.tgz_@types+node@12.19.14:
+    dependencies:
+      '@size-limit/preset-small-lib': 4.9.1_cb0509e6a23dad8d4044cce6fd817699
+      '@types/react': 17.0.0
+      '@types/react-dom': 17.0.0
+      date-fns: 2.16.1
+      husky: 4.3.8
+      react: 17.0.1
+      react-dom: 17.0.1_react@17.0.1
+      size-limit: 4.9.1
+      tsdx: 0.14.1_@types+node@12.19.14
+      tslib: 2.1.0
+      typescript: 4.1.3
+    dev: false
+    id: file:projects/button2.tgz
+    name: '@rush-temp/button2'
+    peerDependencies:
+      '@types/node': '*'
+    resolution:
+      integrity: sha512-PAjAwQeo2rePNeFGWHR3ZwNtXbxggClG+9HupoP8L+bgPe8WUAY+Izyt8vq7+hrmUjTXZjDUgCEgIloOtDYhUQ==
+      tarball: file:projects/button2.tgz
+    version: 0.0.0
+  file:projects/button3.tgz_@types+node@12.19.14:
+    dependencies:
+      '@size-limit/preset-small-lib': 4.9.1_cb0509e6a23dad8d4044cce6fd817699
+      '@types/react': 17.0.0
+      '@types/react-dom': 17.0.0
+      date-fns: 2.16.1
+      husky: 4.3.8
+      react: 17.0.1
+      react-dom: 17.0.1_react@17.0.1
+      size-limit: 4.9.1
+      tsdx: 0.14.1_@types+node@12.19.14
+      tslib: 2.1.0
+      typescript: 4.1.3
+    dev: false
+    id: file:projects/button3.tgz
+    name: '@rush-temp/button3'
+    peerDependencies:
+      '@types/node': '*'
+    resolution:
+      integrity: sha512-3tAs5avv/1wGu5/3uT0x2KFp9cfQhlP4mX/8gJ3U3UUu5dE+/prbmCDjElwGr9tp3zzDw6PaHM9D0zrVUO7TUw==
+      tarball: file:projects/button3.tgz
+    version: 0.0.0
   file:projects/test-app.tgz:
     dependencies:
       '@testing-library/jest-dom': 5.11.9
@@ -14521,7 +14567,7 @@ packages:
     dev: false
     name: '@rush-temp/test-app'
     resolution:
-      integrity: sha512-HYsTt6Jc/+yNBpkMnD59Ns/fj8JPrluWcL9GnsBFtlFYJmqrTmAvvbJRH02jSLhWohcdg26cWP7alpWtAe7R2Q==
+      integrity: sha512-QWO0FmwdiboQqmE5yQSg49kLXdulB6kPqYRO/WdK5v/tItqDRfqkpPdLQ8M1poRi4XL764D9TPWC1nQGHN4yHg==
       tarball: file:projects/test-app.tgz
     version: 0.0.0
   file:projects/test-app2.tgz:
@@ -14543,12 +14589,14 @@ packages:
     dev: false
     name: '@rush-temp/test-app2'
     resolution:
-      integrity: sha512-jPihlIy1Ipv3saYcohoLd1G6Gz26ZIo09Fjju7wKKLKpstRL8tYi7WtXpC42F5rikQwlsoLLomIx9+EAMUSp2g==
+      integrity: sha512-Lef2FGfI7dsB/Q3qaBiBZn5jt5TpnjWTwxT7lliQaQD756PcekV3mnWuRG585JMIh72nsoqOeLwVPnewbZvWVA==
       tarball: file:projects/test-app2.tgz
     version: 0.0.0
 registry: ''
 specifiers:
   '@rush-temp/button': file:./projects/button.tgz
+  '@rush-temp/button2': file:./projects/button2.tgz
+  '@rush-temp/button3': file:./projects/button3.tgz
   '@rush-temp/test-app': file:./projects/test-app.tgz
   '@rush-temp/test-app2': file:./projects/test-app2.tgz
   '@size-limit/preset-small-lib': ^4.9.1

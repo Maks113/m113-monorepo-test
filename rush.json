@@ -398,6 +398,16 @@
       "packageName": "@maks113/button",
       "projectFolder": "components/button",
       "shouldPublish": true
+    },
+    {
+      "packageName": "@maks113/button2",
+      "projectFolder": "components/button2",
+      "shouldPublish": true
+    },
+    {
+      "packageName": "@maks113/button3",
+      "projectFolder": "components/button3",
+      "shouldPublish": true
     }
     // {
     //   /**
