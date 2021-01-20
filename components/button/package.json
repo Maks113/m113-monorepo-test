@@ -33,7 +33,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "button",
+  "name": "@m113-mono-test/button",
   "author": "Maks Nikolaev",
   "module": "dist/button.esm.js",
   "size-limit": [
