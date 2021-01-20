@@ -3,10 +3,10 @@ import { Text } from '@maks113/text-block';
 
 interface IButton {
 	text: string;
-	onClick: () => {};
+	onClick?: () => {};
 }
 
-export const Button = ({ text, onClick }: IButton) => {
+export const Button = ({ text, onClick }: IButton): JSX.Element => {
 	return <button
 		className={'button'}
 		onClick={onClick}
