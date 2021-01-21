@@ -8,7 +8,7 @@ export const Text = ({ text }: IText) => {
 	return <div
 		style={{
 			fontWeight: 'bold',
-			fontSize: 18,
+			fontSize: 12,
 		}}
 	>
 		{text}
