@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "packageName": "@maks113/button",
+      "comment": "and again... change text",
+      "type": "major"
+    }
+  ],
+  "packageName": "@maks113/button",
+  "email": "maks113nik@gmail.com"
+}
