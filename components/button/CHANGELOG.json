@@ -1,0 +1,22 @@
+{
+  "name": "@maks113/button",
+  "entries": [
+    {
+      "version": "1.2.0",
+      "tag": "@maks113/button_v1.2.0",
+      "date": "Thu, 21 Jan 2021 08:27:45 GMT",
+      "comments": {
+        "minor": [
+          {
+            "comment": "add date fns"
+          }
+        ],
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@maks113/text-block\" from `~1.1.0` to `~1.1.1`"
+          }
+        ]
+      }
+    }
+  ]
+}

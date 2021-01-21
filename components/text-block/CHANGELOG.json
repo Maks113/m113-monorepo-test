@@ -1,0 +1,17 @@
+{
+  "name": "@maks113/text-block",
+  "entries": [
+    {
+      "version": "1.1.1",
+      "tag": "@maks113/text-block_v1.1.1",
+      "date": "Thu, 21 Jan 2021 08:27:45 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "change font size"
+          }
+        ]
+      }
+    }
+  ]
+}
