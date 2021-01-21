@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "packageName": "@maks113/clicker",
+      "comment": "1 -> 5",
+      "type": "major"
+    }
+  ],
+  "packageName": "@maks113/clicker",
+  "email": "maks113nik@gmail.com"
+}
