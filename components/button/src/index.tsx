@@ -11,6 +11,6 @@ export const Button = ({ text, onClick }: IButton): JSX.Element => {
 		className={'button'}
 		onClick={onClick}
 	>
-		--<Text text={text}/>--
+		--<Text text={text}/>-
 	</button>;
 };
