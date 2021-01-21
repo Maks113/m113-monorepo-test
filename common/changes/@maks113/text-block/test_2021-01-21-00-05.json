@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "packageName": "@maks113/text-block",
+      "comment": "increase textsize",
+      "type": "minor"
+    }
+  ],
+  "packageName": "@maks113/text-block",
+  "email": "maks113nik@gmail.com"
+}
