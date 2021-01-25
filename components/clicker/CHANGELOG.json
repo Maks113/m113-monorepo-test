@@ -1,0 +1,17 @@
+{
+  "name": "@maks113/clicker",
+  "entries": [
+    {
+      "version": "4.0.0",
+      "tag": "@maks113/clicker_v4.0.0",
+      "date": "Mon, 25 Jan 2021 10:12:07 GMT",
+      "comments": {
+        "major": [
+          {
+            "comment": "1 -> 5"
+          }
+        ]
+      }
+    }
+  ]
+}
